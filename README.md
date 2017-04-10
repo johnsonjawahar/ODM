@@ -4,12 +4,11 @@ This project contains Rule Designer projects that make up an ODM implementation 
 
 ## Projects
 
-* TrafficRules: a Rule project
-* TrafficBOM: the BOM project for TrafficRules
+* TrafficZone_Rules: a Rule project
+* Traffic_BOM: the BOM project for TrafficRules
 * TrafficXOM: the Java(TM) project of the execution object model for TrafficBOM
-* TrafficRuleApp: a RuleApp project for TrafficRules
-* CollisionRules: a Rule project
-* CollisionRuleApp: a RuleApp project for CollisionRules
+* Traffic_Decisions: a Decision Operation project 
+* Collision_Rules: a Rule project
 
 ## Tutorial
 Refer to the blog [Smart traffic management for connected cars using Watson IoT and Node-RED on Bluemix
